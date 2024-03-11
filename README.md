@@ -1,1 +1,2 @@
-# odin-recipes
+hi there
+please check my # odin-recipes project
